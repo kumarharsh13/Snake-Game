@@ -4,7 +4,7 @@
 }
 
 .body{
-    background: url("../Snake-Game/Images/bg.jpg");
+    background: url("../Images/bg.jpg");
     min-height: 100vh; /* view port height*/
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
